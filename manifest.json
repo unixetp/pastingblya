@@ -1,0 +1,14 @@
+{
+  "name": "Yaica Font",
+  "description": "ez",
+  "authors": [
+    {
+      "name": "unix",
+      "id": "000000000000000000"
+    }
+  ],
+  "main": "src/index.tsx",
+  "vendetta": {
+    "icon": "ic_keyboard"        
+  }
+}
